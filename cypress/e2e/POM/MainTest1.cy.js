@@ -31,7 +31,7 @@ describe('Demoblaze Page', () => {
         LoginPagePage.LogOut()
     }) 
 
-    it('04. Login withaut password', () => {
+    it('04. Login without password', () => {
         LoginPagePage.openPage()
         LoginPagePage.clickLogIn()
         LoginPagePage.inputUsernameLogIN('Bifur_user')
