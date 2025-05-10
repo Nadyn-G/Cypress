@@ -8,8 +8,9 @@ The tests automate various actions on the demo site: https://www.demoblaze.com/
 ## Requirements:
 Before running the project, make sure you have the following installed:
 - Node.js
-- Cypress<br/>
-To install the package node_modules execute the following command:
+- Cypress
+
+<br/>To install the package node_modules execute the following command:
 - ```npm install```
 
 ## Run project:
