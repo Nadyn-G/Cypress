@@ -21,7 +21,9 @@ Before running the project, make sure you have the following installed:
 ``cypress\e2e\POM\MainTest1.cy.js``
 
 ## Screenshots:
-![DemoProject](https://github.com/user-attachments/assets/88abff52-2e16-409f-a7e0-559e45ae8dca)
+![DemoProject](https://github.com/user-attachments/assets/5b74c1e5-ec6b-4cff-9a52-dae5f8f8ad04)
+
+
 
 
 
