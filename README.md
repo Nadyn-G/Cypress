@@ -1,10 +1,11 @@
-## Cypress Demo Automation Project
+Cypress Demo Automation Project
 
-## Description
+
+## Description:
 This repository contains automated test cases written in JavaScript using Cypress and the Page Object Model (POM) approach.
-The tests automate various actions on the demo site: ```https://www.demoblaze.com/```
+The tests automate various actions on the demo site: https://www.demoblaze.com/
 
-## Requirements
+## Requirements:
 Before running the project, make sure you have the following installed:
 - Node.js
 - Cypress
